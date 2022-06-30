@@ -1,5 +1,3 @@
-<!--
-**michaeldwihadi/michaeldwihadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋 Hello... My full name is Michael Dwi Hadi, so you can call me "Michael". I'm a Front End Developer that also passionate about Full Stack Technologies.
 
 ## 💼 Career
