@@ -1,16 +1,29 @@
-### Hi there 👋
-
 <!--
 **michaeldwihadi/michaeldwihadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello... My full name is Michael Dwi Hadi, so you can call me "Michael". I'm a Front End Developer that also passionate about Full Stack Technologies.
 
-Here are some ideas to get you started:
+## 💼 Career
+Currently working in *Software Engineering Division* as a ***Frontend Developer*** at [CSG].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Experiences
+- Pure JavaScript
+- GIT (VCS)
+- React.JS
+- Node.JS
+- Express JS
+- HTML
+- Tailwind CSS
+- Emotion CSS
+- MongoDB
+- MySQL
+
+### 🔍 Currently Learning:
+- MERN (MongoDB, Express JS, React.JS, Node.JS)
+- Angular
+
+### 🚀 How to reach me:
+- LinkedIn: [michaeldwihadi](https://www.linkedin.com/in/michael-dwi-hadi/)
+
+---
+
+© 2022 — Michael Dwi Hadi
