@@ -4,8 +4,8 @@
 Currently working in *Software Engineering Division* as a ***Frontend Developer*** at [CSG].
 
 ## 💻 Experiences
-- Pure JavaScript
-- GIT (VCS)
+- JavaScript
+- GIT
 - React.JS
 - Node.JS
 - Express JS
