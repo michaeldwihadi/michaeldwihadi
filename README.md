@@ -9,6 +9,7 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 - React.JS
 - Node.JS
 - Express JS
+- Salesforce
 - HTML
 - Tailwind CSS
 - Emotion CSS
