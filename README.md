@@ -19,6 +19,7 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 ### 🔍 Currently Learning:
 - MERN (MongoDB, Express JS, React.JS, Node.JS)
 - Angular
+- Ionic
 
 ### 🚀 How to reach me:
 - LinkedIn: [michaeldwihadi](https://www.linkedin.com/in/michael-dwi-hadi/)
